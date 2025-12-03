@@ -1,4 +1,4 @@
-from numpy import asarray, prod, float_, round, floor, uint8
+from numpy import asarray, prod, float16, round, floor, uint8
 from graphviz import Digraph
 from lxml import etree
 from pandas import DataFrame
